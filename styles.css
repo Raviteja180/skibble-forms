@@ -1,6 +1,10 @@
 form{
     width: 50%;
     margin:100px auto;
+    padding: 20px;
+    background-color: rgb(55, 6, 77);
+    color: white;
+    border-radius: 10px;;
     
 }
 div{
